@@ -37,7 +37,7 @@ $(document).ready(function() {
     $.getJSON(url, function(data) {
       $(".temp").html(data.current.temp_c);
       $(".title").html(data.location.name + "," + data.location.region);
-      
+      //
       //change image source to current.condition:icon
     });
     });
