@@ -1,0 +1,20 @@
+body
+{
+background-color: lightblue;
+}
+
+.box
+{
+width = 275px;
+}
+
+.title{
+font-size: 75px;
+}
+.author{
+  font-size: 18px;
+}
+.temp
+{
+font-size: 120px;
+}
